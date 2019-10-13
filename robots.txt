@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://heicebeiyo.twtactx.com/sitemap.xml
